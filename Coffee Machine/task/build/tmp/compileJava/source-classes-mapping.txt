@@ -1,0 +1,8 @@
+machine/CoffeeMachineLogic.java
+ machine.CoffeeMachineLogic
+machine/MainUI.java
+ machine.MainUI
+machine/CoffeeMachine.java
+ machine.CoffeeMachine
+machine/CoffeeMachineParams.java
+ machine.CoffeeMachineParams

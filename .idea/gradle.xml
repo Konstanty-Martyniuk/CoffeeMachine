@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="delegatedBuild" value="false" />
+        <option name="testRunner" value="GRADLE" />
+        <option name="distributionType" value="WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Coffee Machine/task" />
+            <option value="$PROJECT_DIR$/Topics/Enums in Java/Currencies" />
+            <option value="$PROJECT_DIR$/Topics/Enums in Java/Days of week" />
+            <option value="$PROJECT_DIR$/Topics/Enums in Java/Hidden enumeration" />
+            <option value="$PROJECT_DIR$/Topics/Enums in Java/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Integer types and operations/Arithmetic expression" />
+            <option value="$PROJECT_DIR$/Topics/Integer types and operations/Good rest on vacation" />
+            <option value="$PROJECT_DIR$/Topics/Integer types and operations/How many nuts each squirrel will get" />
+            <option value="$PROJECT_DIR$/Topics/Integer types and operations/Next even number" />
+            <option value="$PROJECT_DIR$/Topics/Integer types and operations/Reversing" />
+            <option value="$PROJECT_DIR$/Topics/Integer types and operations/Squirrels and nuts" />
+            <option value="$PROJECT_DIR$/Topics/Integer types and operations/The sum of digits" />
+            <option value="$PROJECT_DIR$/Topics/Integer types and operations/Theory" />
+            <option value="$PROJECT_DIR$/util" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
